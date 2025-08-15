@@ -3,6 +3,10 @@
 Generate AI videos with **Seedance** & **Blotato**, then publish directly to TikTok, YouTube Shorts, and Instagram Reels — without manual editing or uploading.
 
 ---
+## n8n workflow:
+![img](Screenshot%202025-08-15%20203002.png)
+
+---
 
 ## 👥 Who Is This For?
 This template is built for:
